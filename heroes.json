@@ -46,6 +46,25 @@
           "tier": "Collector / KOF",
           "asset_filename": "script_gusion_kof.unity3d",
           "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_kof.unity3d"
+        },
+      ]
+    },
+    {
+      "id": "layla",
+      "name": "Layla",
+      "role": "Marksman",
+      "skins": [
+        {
+          "skin_name": "Default",
+          "tier": "Normal",
+          "asset_filename": "script_layla_default.unity3d",
+          "download_url": ""
+        },
+        {
+          "skin_name": "Green Flash",
+          "tier": "Basic",
+          "asset_filename": "script_layla_green_flash.unity3d",
+          "download_url": ""
         }
       ]
     }
