@@ -5,8 +5,18 @@
       "name": "Gusion",
       "role": "Assassin",
       "skins": [
-        { "skin_name": "Default", "tier": "Normal", "asset_filename": "script_gusion_default.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_default.unity3d" },
-        { "skin_name": "V.E.N.O.M. Emperor Scorpion", "tier": "Epic", "asset_filename": "script_gusion_venom.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_venom.unity3d" }
+        {
+          "skin_name": "Default",
+          "tier": "Normal",
+          "asset_filename": "script_gusion_default.unity3d",
+          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_default.unity3d"
+        },
+        {
+          "skin_name": "V.E.N.O.M. Emperor Scorpion",
+          "tier": "Epic",
+          "asset_filename": "script_gusion_venom.unity3d",
+          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_venom.unity3d"
+        }
       ]
     },
     {
@@ -14,71 +24,12 @@
       "name": "Fanny",
       "role": "Assassin",
       "skins": [
-        { "skin_name": "Default", "tier": "Normal", "asset_filename": "script_fanny_default.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/fanny_default.unity3d" },
-        { "skin_name": "Lightborn Skylark", "tier": "Epic", "asset_filename": "script_fanny_lightborn.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/fanny_lightborn.unity3d" }
-      ]
-    },
-    {
-      "id": "chou",
-      "name": "Chau",
-      "role": "Fighter",
-      "skins": [
-        { "skin_name": "Default", "tier": "Normal", "asset_filename": "script_chou_default.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/chou_default.unity3d" },
-        { "skin_name": "Iori Yagami", "tier": "KOF", "asset_filename": "script_chou_kof.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/chou_kof.unity3d" }
-      ]
-    },
-    {
-      "id": "lesley",
-      "name": "Lesley",
-      "role": "Marksman",
-      "skins": [
-        { "skin_name": "Default", "tier": "Normal", "asset_filename": "script_lesley_default.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/lesley_default.unity3d" },
-        { "skin_name": "Stellaris Ghost", "tier": "Collector", "asset_filename": "script_lesley_collector.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/lesley_collector.unity3d" }
-      ]
-    },
-    {
-      "id": "granger",
-      "name": "Granger",
-      "role": "Marksman",
-      "skins": [
-        { "skin_name": "Default", "tier": "Normal", "asset_filename": "script_granger_default.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/granger_default.unity3d" },
-        { "skin_name": "Lightborn Overrider", "tier": "Epic", "asset_filename": "script_granger_lightborn.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/granger_lightborn.unity3d" }
-      ]
-    },
-    {
-      "id": "alucard",
-      "name": "Alucard",
-      "role": "Fighter",
-      "skins": [
-        { "skin_name": "Default", "tier": "Normal", "asset_filename": "script_alucard_default.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/alucard_default.unity3d" },
-        { "skin_name": "Obelisk / Child of the Fall", "tier": "Epic", "asset_filename": "script_alucard_epic.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/alucard_epic.unity3d" }
-      ]
-    },
-    {
-      "id": "kagura",
-      "name": "Kagura",
-      "role": "Mage",
-      "skins": [
-        { "skin_name": "Default", "tier": "Normal", "asset_filename": "script_kagura_default.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/kagura_default.unity3d" },
-        { "skin_name": "Annual Starlight", "tier": "Starlight", "asset_filename": "script_kagura_annual.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/kagura_annual.unity3d" }
-      ]
-    },
-    {
-      "id": "tigreal",
-      "name": "Tigreal",
-      "role": "Tank",
-      "skins": [
-        { "skin_name": "Default", "tier": "Normal", "asset_filename": "script_tigreal_default.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/tigreal_default.unity3d" },
-        { "skin_name": "Lightborn Defender", "tier": "Epic", "asset_filename": "script_tigreal_lightborn.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/tigreal_lightborn.unity3d" }
-      ]
-    },
-    {
-      "id": "angela",
-      "name": "Angela",
-      "role": "Support",
-      "skins": [
-        { "skin_name": "Default", "tier": "Normal", "asset_filename": "script_angela_default.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/angela_default.unity3d" },
-        { "skin_name": "Collector Heart", "tier": "Collector", "asset_filename": "script_angela_collector.unity3d", "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/angela_collector.unity3d" }
+        {
+          "skin_name": "Default",
+          "tier": "Normal",
+          "asset_filename": "script_fanny_default.unity3d",
+          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/fanny_default.unity3d"
+        }
       ]
     }
   ]
