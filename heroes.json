@@ -10,25 +10,6 @@
           "tier": "Normal",
           "asset_filename": "script_gusion_default.unity3d",
           "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_default.unity3d"
-        },
-        {
-          "skin_name": "V.E.N.O.M. Emperor Scorpion",
-          "tier": "Epic",
-          "asset_filename": "script_gusion_venom.unity3d",
-          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_venom.unity3d"
-        }
-      ]
-    },
-    {
-      "id": "fanny",
-      "name": "Fanny",
-      "role": "Assassin",
-      "skins": [
-        {
-          "skin_name": "Default",
-          "tier": "Normal",
-          "asset_filename": "script_fanny_default.unity3d",
-          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/fanny_default.unity3d"
         }
       ]
     }
