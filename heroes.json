@@ -9,43 +9,43 @@
           "skin_name": "Default",
           "tier": "Normal",
           "asset_filename": "script_gusion_default.unity3d",
-          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_default.unity3d"
+          "download_url": ""
         },
         {
           "skin_name": "Moonlight Sonata",
           "tier": "Basic",
           "asset_filename": "script_gusion_moonlight_sonata.unity3d",
-          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_moonlight_sonata.unity3d"
+          "download_url": ""
         },
         {
           "skin_name": "Cyber Ops",
           "tier": "Starlight",
           "asset_filename": "script_gusion_cyber_ops.unity3d",
-          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_cyber_ops.unity3d"
+          "download_url": ""
         },
         {
           "skin_name": "Hairstylist",
           "tier": "Elite",
           "asset_filename": "script_gusion_hairstylist.unity3d",
-          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_hairstylist.unity3d"
+          "download_url": ""
         },
         {
           "skin_name": "V.E.N.O.M. Emperor Scorpion",
           "tier": "Epic",
           "asset_filename": "script_gusion_venom.unity3d",
-          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_venom.unity3d"
+          "download_url": ""
         },
         {
           "skin_name": "Cosmic Gleam",
           "tier": "Legend",
           "asset_filename": "script_gusion_cosmic_gleam.unity3d",
-          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_cosmic_gleam.unity3d"
+          "download_url": ""
         },
         {
           "skin_name": "K'",
           "tier": "Collector / KOF",
           "asset_filename": "script_gusion_kof.unity3d",
-          "download_url": "https://raw.githubusercontent.com/Wiliem9087/MLBB/main/skins/gusion_kof.unity3d"
+          "download_url": ""
         },
       ]
     },
